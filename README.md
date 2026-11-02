@@ -3,72 +3,25 @@
 
 Welcome to my personal portfolio.
 
-I have a technical background in **Computer Science and Telecommunications** and an interest in IT infrastructure, networking, system administration and software development.
+I have a technical background in **Computer Science and Telecommunications**, with an interest in IT infrastructure, networking, system administration and software development.
 
 This portfolio showcases personal projects developed to solve practical problems through technology, process analysis and automation.
 
 ---
 
-## Projects
+## Featured Projects
 
-### 1. Stockly
-**Warehouse Stock Analysis & Storage Optimization**
+### [Stockly – Warehouse Stock Analysis & Storage Optimization](projects/stockly.md)
+An application designed to analyze SAP stock data and identify opportunities to optimize warehouse storage locations.
 
-An application designed to analyze warehouse stock data exported from SAP and identify opportunities to optimize storage locations.
+### [EasyHU – Handling Unit & SSCC Management](projects/easyhu.md)
+A solution focused on SSCC scanning, Handling Unit identification, data validation and operational monitoring.
 
-**Main features:**
-- Analysis of warehouse stock data.
-- Identification of potential pallet movements.
-- Drive-in storage optimization.
-- Operational suggestions accessible from smartphones.
+### [TwinScan – Barcode Validation & Monitoring](projects/twinscan.md)
+A project designed to validate barcode scanning activities and identify potentially inconsistent data.
 
-**Technologies:** SAP S/4HANA, Excel, Data Analysis, Process Automation.
-
----
-
-### 2. EasyHU
-**Handling Unit & SSCC Management**
-
-A solution designed to support the management and tracking of Handling Units (HU) and SSCC codes.
-
-**Main features:**
-- SSCC/UDC scanning.
-- Handling Unit identification.
-- Operator-based access.
-- Data validation and Excel exports.
-
-**Technologies:** Web Development, Barcode Scanning, Data Management, Process Automation.
-
----
-
-### 3. TwinScan
-**Barcode Validation & Monitoring**
-
-A project focused on validating and monitoring barcode scanning activities in logistics workflows.
-
-**Main features:**
-- Barcode scan validation.
-- Monitoring of scanning operations.
-- Identification of suspicious or inconsistent matches.
-- Operational data tracking.
-
-**Technologies:** Web Development, Zebra Terminals, SAP S/4HANA, Data Validation.
-
----
-
-### 4. MornicoHub
-**Personal Data Management & Automation**
-
-A personal application developed to process and organize work-related information and automate calculations.
-
-**Main features:**
-- Working time tracking.
-- Automatic processing of clock-in data.
-- Estimated payslip calculations.
-- Comparison of recorded and declared payroll information.
-- Personal vehicle consumption tracking.
-
-**Technologies:** Web Development, Data Processing, Automation.
+### [MornicoHub – Personal Data Management & Automation](projects/mornicohub.md)
+A personal application for processing working time records, estimating payroll information and tracking vehicle consumption.
 
 ---
 
@@ -90,4 +43,8 @@ My personal projects combine independent problem-solving with AI-assisted develo
 
 ---
 
-**Contact:** [LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/sahilpabyal)
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/)
+- [GitHub](https://github.com/sahilpabyal)
+- [CodeActa](https://codeacta.it)
